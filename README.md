@@ -2,7 +2,7 @@
 
 🟠Computer science student at UTRGV<br/>
 💻I do coding challenges on my personal time to stay consistent<br/>
-📊Experience with Django and working in projects with teams<br/>
+📊Experience with Django, Flask and working in projects with teams using agile methodology<br/>
 
 
 ## 🌐 Socials:
